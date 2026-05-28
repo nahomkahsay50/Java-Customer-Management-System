@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers xmlns="https://www.w3.org/1999/xhtml">
+    <Customer id="1">
+        <name>John Doe</name>
+        <type>Individual</type>
+        <address>123 Maple Street</address>
+        <city>Cincinnati</city>
+        <state>OH</state>
+        <zipcode>45202</zipcode>
+    </Customer>
+    <Customer id="2">
+        <name>Sarah Williams</name>
+        <type>Individual</type>
+        <address>45 Riverbend Lane</address>
+        <city>Dayton</city>
+        <state>OH</state>
+        <zipcode>45402</zipcode>
+    </Customer>
+    <Customer id="3">
+        <name>Michael Johnson</name>
+        <type>Business</type>
+        <address>890 Pine Ridge Road</address>
+        <city>Columbus</city>
+        <state>OH</state>
+        <zipcode>43210</zipcode>
+    </Customer>
+    <Customer id="4">
+        <name>Alicia Brown</name>
+        <type>Individual</type>
+        <address>22 Oakwood Drive</address>
+        <city>Toledo</city>
+        <state>OH</state>
+        <zipcode>43604</zipcode>
+    </Customer>
+    <Customer id="5">
+        <name>David Smith</name>
+        <type>Business</type>
+        <address>740 Walnut Avenue</address>
+        <city>Cleveland</city>
+        <state>OH</state>
+        <zipcode>44114</zipcode>
+    </Customer>
+</Customers>

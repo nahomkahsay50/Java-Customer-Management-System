@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-12-10T02:37:57.781586800Z</date>
+  <millis>1765334277781</millis>
+  <nanos>586800</nanos>
+  <sequence>0</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>ViewCustomers operation started</message>
+</record>
+<record>
+  <date>2025-12-10T02:37:57.845566600Z</date>
+  <millis>1765334277845</millis>
+  <nanos>566600</nanos>
+  <sequence>1</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>customers.xml file found successfully</message>
+</record>
+<record>
+  <date>2025-12-10T02:37:57.908545Z</date>
+  <millis>1765334277908</millis>
+  <nanos>545000</nanos>
+  <sequence>2</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>Found 5 customers in file.</message>
+</record>
+<record>
+  <date>2025-12-10T02:37:57.919541700Z</date>
+  <millis>1765334277919</millis>
+  <nanos>541700</nanos>
+  <sequence>3</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>ViewCustomers operation completed successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-12-10T02:38:47.124360900Z</date>
+  <millis>1765334327124</millis>
+  <nanos>360900</nanos>
+  <sequence>0</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>ViewCustomers operation started</message>
+</record>
+<record>
+  <date>2025-12-10T02:38:47.185906300Z</date>
+  <millis>1765334327185</millis>
+  <nanos>906300</nanos>
+  <sequence>1</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>customers.xml file found successfully</message>
+</record>
+<record>
+  <date>2025-12-10T02:38:47.249907900Z</date>
+  <millis>1765334327249</millis>
+  <nanos>907900</nanos>
+  <sequence>2</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>Found 5 customers in file.</message>
+</record>
+<record>
+  <date>2025-12-10T02:38:47.260881800Z</date>
+  <millis>1765334327260</millis>
+  <nanos>881800</nanos>
+  <sequence>3</sequence>
+  <logger>week15finalproject.ViewCustomers</logger>
+  <level>INFO</level>
+  <class>week15finalproject.ViewCustomers</class>
+  <method>DisplayCustomers</method>
+  <thread>1</thread>
+  <message>ViewCustomers operation completed successfully</message>
+</record>
+</log>

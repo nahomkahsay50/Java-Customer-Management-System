@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"week15finalproject","c":"ViewCustomers","l":"DisplayCustomers()"},{"p":"week15finalproject","c":"ViewCustomers","l":"ViewCustomers()","u":"%3Cinit%3E()"}];updateSearchResults();
